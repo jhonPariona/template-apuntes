@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Template de apuntes de programación
+longtitle:        Template apuntes
+author:           wilderPariona
+email:            wilder.pariona.27@unsch.edu.pe
 description: >
-  Build Jekyll site with the GitBook style.
+  Template base jekyll para apuntes basado en jekyll-gitbook
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://jhonpariona.github.io'
+baseurl:          '/template-apuntes'
 rss:              RSS
 
 # markdown render engine.
